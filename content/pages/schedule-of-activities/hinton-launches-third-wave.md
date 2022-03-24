@@ -11,11 +11,11 @@ Papers
 
 \[Note: Read the assignment before you read the papers.\]
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["ImageNet Classification with Deep Convolutional Neural Networks" (PDF)](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) by Alex Krizhevsky, Illya Sutskever, and Geoffrey E. Hinton.
+["ImageNet Classification with Deep Convolutional Neural Networks" (PDF)](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) by Alex Krizhevsky, Illya Sutskever, and Geoffrey E. Hinton.
 
 Estimated reading time: 20 min
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images" (PDF)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Nguyen_Deep_Neural_Networks_2015_CVPR_paper.pdf) by Anh Nguyen, Jason Yosinsky, and Jeff Clune
+["Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images" (PDF)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Nguyen_Deep_Neural_Networks_2015_CVPR_paper.pdf) by Anh Nguyen, Jason Yosinsky, and Jeff Clune
 
 Estimated reading time: 30 min
 

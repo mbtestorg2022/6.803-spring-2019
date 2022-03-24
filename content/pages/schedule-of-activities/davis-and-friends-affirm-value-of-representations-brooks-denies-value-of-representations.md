@@ -9,7 +9,7 @@ uid: ed1f9868-2deb-d3ae-8fcd-50fce84c1176
 Papers
 ------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Intelligence without Representation" (PDF)](https://people.csail.mit.edu/brooks/papers/representation.pdf) by Rodney A. Brooks
+["Intelligence without Representation" (PDF)](https://people.csail.mit.edu/brooks/papers/representation.pdf) by Rodney A. Brooks
 
 Estimated reading time: 45 min
 
