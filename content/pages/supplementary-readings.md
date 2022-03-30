@@ -96,7 +96,7 @@ Speaking
 
 You cannot actually put these on a bookshelf, but they are useful nevertheless:
 
-_[How to Speak](/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak)_, Patrick Henry Winston.
+_[How to Speak](/courses/res-tll-005-how-to-speak-january-iap-2018/pages/how-to-speak)_, Patrick Henry Winston.
 
 A talk given annually at MIT. Some attend multiple times. The record so far is said to be greater than 10.
 

@@ -8,6 +8,7 @@ image_metadata:
   credit: 'Image courtesy of [Michael Jackson](https://www.flickr.com/photos/128134748@N04/15804431195/)
     on Flickr. License: CC BY-NC-SA.'
   image-alt: A cluster of old houses on a tombolo.
+parent_uid: 8d4dbc2f-45f1-af9d-b1b6-0e7a4a573ac1
 resourcetype: Image
 title: Sveti Stefan
 uid: 1b03f723-045e-6950-3c1a-c3de94c49623

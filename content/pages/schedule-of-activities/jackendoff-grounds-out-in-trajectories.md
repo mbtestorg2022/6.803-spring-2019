@@ -20,7 +20,7 @@ Assignment
 
 On a total of one side of one sheet of paper, using 10 pt type or larger, with standard interline spacing and margins, respond to all the following:
 
-![a cluster of old houses on a rocky tombolo](/courses/electrical-engineering-and-computer-science/6-803-the-human-intelligence-enterprise-spring-2019/schedule-of-activities/jackendoff-grounds-out-in-trajectories/6-803s19-sveti-stefan.jpg)
+{{< resource "1b03f723-045e-6950-3c1a-c3de94c49623" >}}
 
 Sveti Stefan. (Image courtesy of [Michael Jackson](https://www.flickr.com/photos/128134748@N04/15804431195/) on Flickr. License: CC BY-NC-SA.)
 

@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisite
 ------------
 
-[_6.034 Artificial Intelligence_](/courses/6-034-artificial-intelligence-fall-2010/)
+[_6.034 Artificial Intelligence_](/courses/6-034-artificial-intelligence-fall-2010)
 
 Course Description
 ------------------
